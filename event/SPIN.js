@@ -6,7 +6,7 @@
 //
 // ====================================================================================================
 
-
+//added a change here!!!
 var url = "http://ec2-52-34-120-113.us-west-2.compute.amazonaws.com/spin";
 // var url = "http://util1.mesmo.tv:8480/spin";
 // // var jsonForm = {
